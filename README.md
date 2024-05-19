@@ -14,7 +14,7 @@ Para executar o algoritmo em um ambiente Python, siga estas etapas:
 
 1. Clone este repositório:
 
-git clone https://github.com/seu_usuario/nome_do_repositorio.git
+git clone https://github.com/JoaoLucasDS/Ford-Fulkerson
 
 2. Certifique-se de ter as bibliotecas `matplotlib` e `networkx` instaladas. Caso contrário, instale-as utilizando:
 
