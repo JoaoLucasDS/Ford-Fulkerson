@@ -30,3 +30,5 @@ g.AddAresta(v4,vT,4)
 #print(g.FordFulkerson(vS,vT))
 print("Fluxo máximo:",g.FordFulkersonCormen(vS,vT))
 print("="*40)
+
+g.plot_animation()
